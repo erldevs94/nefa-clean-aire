@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/base-accordion.js": "components/base-accordion.js",
+    "components/base-section.js": "components/base-section.js",
+    "components/landing-buy-trade-image.js": "components/landing-buy-trade-image.js",
+    "components/landing-crypto-statistic.js": "components/landing-crypto-statistic.js",
+    "components/landing-exchange.js": "components/landing-exchange.js",
+    "components/landing-list-item.js": "components/landing-list-item.js",
+    "components/landing-partner-image.js": "components/landing-partner-image.js",
+    "components/landing-step.js": "components/landing-step.js",
+    "components/landing-trading-tool-image.js": "components/landing-trading-tool-image.js",
+    "components/line-chart.js": "components/line-chart.js",
+    "components/mailto.js": "components/mailto.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/base-accordion.js": "components/base-accordion.js.map",
+    "components/base-section.js": "components/base-section.js.map",
+    "components/landing-buy-trade-image.js": "components/landing-buy-trade-image.js.map",
+    "components/landing-crypto-statistic.js": "components/landing-crypto-statistic.js.map",
+    "components/landing-exchange.js": "components/landing-exchange.js.map",
+    "components/landing-list-item.js": "components/landing-list-item.js.map",
+    "components/landing-partner-image.js": "components/landing-partner-image.js.map",
+    "components/landing-step.js": "components/landing-step.js.map",
+    "components/landing-trading-tool-image.js": "components/landing-trading-tool-image.js.map",
+    "components/line-chart.js": "components/line-chart.js.map",
+    "components/mailto.js": "components/mailto.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
