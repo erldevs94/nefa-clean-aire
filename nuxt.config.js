@@ -1,8 +1,8 @@
 export default {
   target: 'static',
-  // router: {
-  //   base: '/cleanaire.github.io/'
-  // },
+  router: {
+    base: '/cleanaire/'
+  },
   head: {
     title: 'Clean Aire',
     htmlAttrs: {
