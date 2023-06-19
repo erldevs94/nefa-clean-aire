@@ -1,8 +1,8 @@
 export default {
   target: 'static',
-  router: {
-    base: '/cleanaire.github.io/'
-  },
+  // router: {
+  //   base: '/cleanaire.github.io/'
+  // },
   head: {
     title: 'Clean Aire',
     htmlAttrs: {
@@ -46,5 +46,5 @@ export default {
       },
     },
   },
-  buildDir: 'nuxt-dist',
+  buildDir: 'dist',
 }
