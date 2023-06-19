@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "cross-env NODE_OPTIONS='' nuxt start",
     "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages-temp",
+    "deploy": "push-dir --dir=dist --branch=master",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint:prettier": "prettier --check .",
     "lint": "yarn lint:js && yarn lint:prettier",
